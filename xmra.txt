@@ -1,1 +1,15 @@
-47uJGHwLKTdCpekMEHY1dKgnnVC1jV7a3QPKMNsNWw9wdsYJuR4FDTZi9V9w4hvSC8BUMEm9NoyXsc1id9w7seki7H2hF5u
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "47uJGHwLKTdCpekMEHY1dKgnnVC1jV7a3QPKMNsNWw9wdsYJuR4FDTZi9V9w4hvSC8BUMEm9NoyXsc1id9w7seki7H2hF5u",
+            "pass": "Work",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
